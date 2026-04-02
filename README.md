@@ -15,19 +15,29 @@
 
 ## About Me
 
-I am **Troy Lauren T. Lazaro**, an IT student from **Manila, Philippines** working at the intersection of:
+I am **Troy Lauren T. Lazaro** from **Manila, Philippines**.
 
-- AI/ML research
-- Full-stack engineering
-- Community-led developer growth
+I build at the intersection of **AI research**, **full-stack product development**, and **community leadership**.
 
-I like shipping projects that are practical, explainable, and useful in real environments, from resource-efficient language models to fully local RAG systems.
+My approach is simple: if it cannot survive real constraints, it is not done yet.
 
-## What I Am Building
+- I care about practical AI, not hype-driven demos.
+- I enjoy turning complex systems into clear, teachable building blocks.
+- I like building tools that stay useful even with limited resources.
 
-- **H(AI)LP / AI-Compacting**: memory-efficient language model research comparing Transformer vs RWKV-style architecture under fixed-resource constraints.
-- **RAGgedy**: a modular, open-source local-first RAG toolkit (dense retrieval, BM25, RRF, reranking) designed as an educational and production-ready template set.
-- **Interactive Product Experiments**: rapid full-stack builds and hardware-aware UX prototypes.
+## Why I Build
+
+I am interested in systems that are:
+
+- **Resource-aware**: performant under tight memory and compute limits.
+- **Local-first**: open-source stacks that run without paid APIs.
+- **Human-centered**: technology that helps people make better decisions.
+
+## Current Focus
+
+- **H(AI)LP / AI-Compacting**: testing the limits of compact model architectures and proving that strong results do not always require massive infrastructure.
+- **RAGgedy**: designing modular local RAG pipelines that are easy to learn, extend, and ship.
+- **Rapid Build Sprints**: shipping high-pressure prototypes that blend research thinking with product execution.
 
 ## Featured Projects
 
@@ -71,15 +81,22 @@ I like shipping projects that are practical, explainable, and useful in real env
 
 I enjoy translating research and technical depth into learning systems and developer communities that scale through mentorship.
 
+## Personal Snapshot
+
+- Location: Manila, Philippines
+- Motto: **Execution over theoretical**
+- Collaboration style: direct, iterative, and high-ownership
+- Open to: research-to-dev collaborations, hackathons, and impact-driven product teams
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Troy-LL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troy-LL&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Troy-LL&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
