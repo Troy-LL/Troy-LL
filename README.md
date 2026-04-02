@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=22C55E&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=0f0f0f&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Troy-LL"><img src="https://img.shields.io/badge/GitHub-Troy--LL-0f0f0f?style=for-the-badge&logo=github&logoColor=c0c0c0&labelColor=1c1c1c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/troylazaro"><img src="https://img.shields.io/badge/LinkedIn-troylazaro-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=c0c0c0&labelColor=1c1c1c" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-0f0f0f?style=for-the-badge&logo=instagram&logoColor=22c55e&labelColor=1c1c1c" alt="Instagram" /></a>
-  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=1c1c1c" alt="Email" /></a>
+  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-0f0f0f?style=for-the-badge&logo=instagram&logoColor=1c1c1c&labelColor=1c1c1c" alt="Instagram" /></a>
+  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=1c1c1c&labelColor=1c1c1c" alt="Email" /></a>
 </p>
 
 ## About Me
