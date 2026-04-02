@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/Troy-LL"><img src="https://img.shields.io/badge/GitHub-Troy--LL-0f0f0f?style=for-the-badge&logo=github&logoColor=c0c0c0&labelColor=1c1c1c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/troylazaro"><img src="https://img.shields.io/badge/LinkedIn-troylazaro-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=c0c0c0&labelColor=1c1c1c" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-0f0f0f?style=for-the-badge&logo=instagram&logoColor=1c1c1c&labelColor=1c1c1c" alt="Instagram" /></a>
-  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=1c1c1c&labelColor=1c1c1c" alt="Email" /></a>
+  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-0f0f0f?style=for-the-badge&logo=instagram&logoColor=c0c0c0&labelColor=1c1c1c" alt="Instagram" /></a>
+  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=c0c0c0&labelColor=1c1c1c" alt="Email" /></a>
 </p>
 
 ## About Me
