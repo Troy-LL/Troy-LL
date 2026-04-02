@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Troy%20Lauren%20T.%20Lazaro&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=Execution%20over%20theoretical&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1c1c1c,100:c0c0c0&text=Troy%20Lauren%20T.%20Lazaro&fontColor=fafafa&fontSize=42&fontAlignY=38&desc=Execution%20over%20theoretical&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=22C55E&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Troy-LL"><img src="https://img.shields.io/badge/GitHub-Troy--LL-0f172a?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/troylazaro"><img src="https://img.shields.io/badge/LinkedIn-troylazaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Troy-LL"><img src="https://img.shields.io/badge/GitHub-Troy--LL-0f0f0f?style=for-the-badge&logo=github&logoColor=c0c0c0&labelColor=1c1c1c" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/troylazaro"><img src="https://img.shields.io/badge/LinkedIn-troylazaro-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=c0c0c0&labelColor=1c1c1c" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/isametroy_/"><img src="https://img.shields.io/badge/Instagram-@isametroy__-0f0f0f?style=for-the-badge&logo=instagram&logoColor=22c55e&labelColor=1c1c1c" alt="Instagram" /></a>
+  <a href="mailto:troylazaro09@gmail.com"><img src="https://img.shields.io/badge/Email-troylazaro09%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=1c1c1c" alt="Email" /></a>
 </p>
 
 ## About Me
@@ -91,16 +91,16 @@ I enjoy translating research and technical depth into learning systems and devel
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakNum=c0c0c0&sideNums=c0c0c0&currStreakLabel=22c55e&sideLabels=c0c0c0&dates=8e8e93" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Troy-LL&theme=github-compact&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Troy-LL&theme=github-dark&hide_border=true&bg_color=0f0f0f&color=c0c0c0&line=22c55e&point=c0c0c0" alt="activity graph" />
 </p>
 
 ## Connect
@@ -112,5 +112,5 @@ I enjoy translating research and technical depth into learning systems and devel
 - Email: troylazaro09@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:334155" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:1c1c1c,100:c0c0c0" alt="footer" />
 </p>
