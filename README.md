@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=c0c0c0&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
-=======
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
->>>>>>> 7da26346617ae703bad338e684dcc96552879159
 </p>
 
 <p align="center">
@@ -94,9 +90,11 @@ I enjoy translating research and technical depth into learning systems and devel
 
 ## GitHub Stats
 
+The cards below are tuned for a monochrome palette so the section stays visually consistent.
+
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -104,7 +102,7 @@ I enjoy translating research and technical depth into learning systems and devel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Troy-LL&theme=github-dark&hide_border=true&bg_color=0f0f0f&color=c0c0c0&line=c0c0c0&point=c0c0c0" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Troy-LL&theme=github-dark&hide_border=true&bg_color=0f0f0f&title_color=c0c0c0&color=c0c0c0&line=c0c0c0&point=c0c0c0&text_color=8e8e93" alt="activity graph" />
 </p>
 
 ## Connect
