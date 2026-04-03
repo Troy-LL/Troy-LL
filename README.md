@@ -17,7 +17,7 @@
 
 I am **Troy Lauren T. Lazaro** from **Manila, Philippines**.
 
-I build at the intersection of **AI research**, **full-stack product development**, and **community leadership**.
+I build at the intersection of **AI research**, **full-stack development**, and **community leadership**.
 
 My approach is simple: if it cannot survive real constraints, it is not done yet.
 
