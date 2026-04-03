@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=c0c0c0&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
+=======
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=AI%2FML+Researcher+%7C+Full-Stack+Developer+%7C+Community+Builder;Building+with+intention.+Building+with+purpose.;Open+to+research-to-dev+collaborations+and+impactful+products" alt="typing" />
+>>>>>>> 7da26346617ae703bad338e684dcc96552879159
 </p>
 
 <p align="center">
