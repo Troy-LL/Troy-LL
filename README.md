@@ -90,7 +90,6 @@ I enjoy translating research and technical depth into learning systems and devel
 
 ## GitHub Stats
 
-The cards below are tuned for a monochrome palette so the section stays visually consistent.
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="GitHub stats" />
