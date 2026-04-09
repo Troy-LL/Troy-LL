@@ -36,7 +36,6 @@ I am interested in systems that are:
 ## Current Focus
 
 - **H(AI)LP / AI-Compacting**: testing the limits of compact model architectures and proving that strong results do not always require massive infrastructure.
-- **RAGgedy**: designing modular local RAG pipelines that are easy to learn, extend, and ship.
 - **Rapid Build Sprints**: shipping high-pressure prototypes that blend research thinking with product execution.
 
 ## Featured Projects
@@ -44,7 +43,6 @@ I am interested in systems that are:
 | Project | Focus | Stack |
 | --- | --- | --- |
 | [AI-Compacting](https://github.com/Troy-LL/AI-Compacting) | Efficient LLM architecture research | Python, PyTorch, RWKV, Benchmarking |
-| [RAGgedy](https://github.com/Troy-LL/RAGgedy) | Local, modular RAG templates | Python, LlamaIndex, Ollama, ChromaDB |
 | [ALAITAPTAP](https://github.com/Troy-LL/ALAITAPTAP) | AI-assisted safer route navigation | TypeScript, GeoJSON, Mapping, AI modeling |
 | [accordion-kinetic](https://github.com/Troy-LL/accordion-kinetic) | Hardware-integrated kinetic UI | JavaScript, Device Orientation API, GSAP |
 
