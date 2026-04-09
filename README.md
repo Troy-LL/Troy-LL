@@ -17,7 +17,7 @@
 
 I am **Troy Lauren T. Lazaro** from **Manila, Philippines**.
 
-I build at the intersection of **AI research**, **full-stack product development**, and **community leadership**.
+I build at the intersection of **AI research**, **full-stack development**, and **community leadership**.
 
 My approach is simple: if it cannot survive real constraints, it is not done yet.
 
@@ -88,7 +88,6 @@ I enjoy translating research and technical depth into learning systems and devel
 
 ## GitHub Stats
 
-The cards below are tuned for a monochrome palette so the section stays visually consistent.
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="GitHub stats" />
