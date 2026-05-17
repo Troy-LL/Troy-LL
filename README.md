@@ -58,19 +58,6 @@ I believe that technology scales best through community. I spend my time leading
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=ffffff&icon_color=c0c0c0&border_color=c0c0c0&bg_color=000000" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=ffffff&icon_color=c0c0c0&border_color=c0c0c0&bg_color=000000" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=dark&hide_border=false&border=c0c0c0&stroke=c0c0c0&ring=c0c0c0&fire=c0c0c0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c0c0c0&sideLabels=c0c0c0&dates=c0c0c0&background=000000" alt="GitHub streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - **Portfolio:** [troylazaro.dev](https://troylazaro.dev/)
 - **Creative Portfolio:** [desktop.troylazaro.dev](https://desktop.troylazaro.dev/)
