@@ -61,12 +61,12 @@ I believe that technology scales best through community. I spend my time leading
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=8e8e93&icon_color=8e8e93&border_color=2a2a2a&bg_color=00000000" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=fafafa&icon_color=c0c0c0&border_color=c0c0c0&bg_color=00000000" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troy-LL&theme=transparent&title_color=c0c0c0&text_color=fafafa&icon_color=c0c0c0&border_color=c0c0c0&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=dark&hide_border=true&ring=c0c0c0&fire=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&currStreakLabel=c0c0c0&sideLabels=8e8e93&dates=8e8e93&background=0f0f0f" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Troy-LL&theme=dark&hide_border=false&border=c0c0c0&stroke=c0c0c0&ring=c0c0c0&fire=c0c0c0&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=c0c0c0&sideLabels=c0c0c0&dates=8e8e93&background=00000000" alt="GitHub streak" />
 </p>
 
 ---
