@@ -18,11 +18,13 @@
 ### 👋 The Core
 I am **Troy**, a builder from Manila. My philosophy is simple: **Execution over theoretical.** 
 
-I thrive at the intersection of AI research and practical software engineering. I don't just want to know how something works; I want to see it survive real-world constraints. Whether it's compacting LLMs to run on edge devices or building local-first tools that respect user privacy, I build with intention and purpose.
+I make things for the sake of making them. Most of what you see here started as an itch—a random idea or a "what if" that I refused to leave in the realm of the theoretical. I value the act of building above all else, because an idea only truly exists once it survives its first encounter with reality.
 
-- **What I do:** I translate complex research into accessible, high-performance tools.
-- **How I think:** I prioritize resource-aware systems—if it can't run on limited hardware, it's not optimized yet.
-- **Why I build:** To bridge the gap between "it works in a paper" and "it works in your hands."
+I’m just a nerd with the privilege of being able to apply the things I enjoy. Whether I'm compacting LLMs to run on edge devices or experimenting with local-first tools, I'm usually just following a trail of curiosity to see where it leads.
+
+- **The Philosophy:** Build it first, theorize later.
+- **The Driver:** Turning "that could work" into "it's working right now."
+- **The Identity:** A perpetual student of the craft, building for the joy of the process.
 
 ---
 
@@ -70,7 +72,8 @@ I believe that technology scales best through community. I spend my time leading
 ---
 
 ### 📫 Let's Connect
-- **Portfolio:** [tlportfolio.vercel.app](https://tlportfolio.vercel.app/)
+- **Portfolio:** [troylazaro.dev](https://troylazaro.dev/)
+- **Creative Portfolio:** [desktop.troylazaro.dev](https://desktop.troylazaro.dev/)
 - **LinkedIn:** [in/troylazaro](https://www.linkedin.com/in/troylazaro)
 - **Instagram:** [@isametroy_](https://www.instagram.com/isametroy_/)
 - **Email:** [troylazaro09@gmail.com](mailto:troylazaro09@gmail.com)
