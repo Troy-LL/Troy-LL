@@ -10,9 +10,9 @@ Manila · IT student at PUP · building when there’s something worth showing.
 
 ## Roles
 
-- ASES Manila — PUP University Lead
-- GDG on Campus PUP — Talent Development Lead
-- AWS Cloud Club — Community Engagement Officer
+- Marketing Officer (Web/SEO) — ASES Manila
+- Datacamp Scholar — DataCamp
+- Start-Up Development Office · Committee Member — AWS User Group e:Novators Philippines
 
 ## Elsewhere
 
