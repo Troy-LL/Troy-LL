@@ -2,39 +2,42 @@
   <img src="assets/tl-banner.png" width="100%" alt="Troy Lazaro" />
 </p>
 
-<p align="center"><em>Life's too short to be boring.</em></p>
+```yaml
+# troy@github ~ % fetch
+who: Manila · IT @ PUP · AI engineer & builder
+builds: AI systems · agentic workflows · small models
+ships: PUPSync · ASES site
+open_to: hackathons · hard problems
+```
 
-> Manila · IT student at PUP · AI engineer & builder — I make things with AI, break them, fix them, ship them.
+<p>
+  <sub><b>WHAT I USE</b></sub>
+</p>
 
-— **WHAT I DO**
-- Marketing Officer (Web/SEO) — ASES Manila
-- Datacamp Scholar — DataCamp
-- Start-Up Development Office · Committee Member — AWS User Group e:Novators Philippines
-- Seekers Guild Member
-- Ship student tools and agentic experiments worth showing ([PUPSync](https://chromewebstore.google.com/detail/pupsync/lajkaclhliicgdfdlnfioaodjnkjmedp), safer-route / compact-model / Cursor workflow work)
+**Languages**
 
-— **WHAT I USE**
-- **Languages:** TypeScript · JavaScript · Python · Rust (systems toys) · Java (classwork)
-- **Web & product:** Next.js · React · Tailwind · PWAs · Chrome extensions
-- **AI / agents:** LLMs & agentic workflows · Cursor · prompt tooling · small-model / phone-mesh experiments (Trojohn, AI-Compacting, GemmaPie, Cody, Prompteering)
-- **Other:** Expo (Drowzi) · Tone.js / phone sensors (Kinetic-Music) · Packet Tracer labs
-- **Presence:** type, layout, Figma — paper-first
+![TypeScript](https://img.shields.io/badge/TypeScript-F2EEE8?style=flat-square&logo=typescript&logoColor=1A1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2EEE8?style=flat-square&logo=javascript&logoColor=1A1A1A)
+![Python](https://img.shields.io/badge/Python-F2EEE8?style=flat-square&logo=python&logoColor=1A1A1A)
+![Rust](https://img.shields.io/badge/Rust-F2EEE8?style=flat-square&logo=rust&logoColor=1A1A1A)
 
-— **OPEN TO**
-Hackathons, campus and community builds, agentic systems & automation collabs, and thoughtful problems worth breaking. [Email](mailto:troylazaro09@gmail.com) · [troylazaro.dev](https://troylazaro.dev)
+**Web**
 
-— **ELSEWHERE**
+![Next.js](https://img.shields.io/badge/Next.js-F2EEE8?style=flat-square&logo=nextdotjs&logoColor=1A1A1A)
+![React](https://img.shields.io/badge/React-F2EEE8?style=flat-square&logo=react&logoColor=1A1A1A)
+![Tailwind](https://img.shields.io/badge/Tailwind-F2EEE8?style=flat-square&logo=tailwindcss&logoColor=1A1A1A)
+![Expo](https://img.shields.io/badge/Expo-F2EEE8?style=flat-square&logo=expo&logoColor=1A1A1A)
+
+**Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-F2EEE8?style=flat-square&logo=cursor&logoColor=1A1A1A)
+![Figma](https://img.shields.io/badge/Figma-F2EEE8?style=flat-square&logo=figma&logoColor=1A1A1A)
+![Git](https://img.shields.io/badge/Git-F2EEE8?style=flat-square&logo=git&logoColor=1A1A1A)
+![AWS](https://img.shields.io/badge/AWS-F2EEE8?style=flat-square&logo=amazonaws&logoColor=1A1A1A)
+
+<p>
+  <sub><b>ELSEWHERE</b></sub>
+</p>
+
 [troylazaro.dev](https://troylazaro.dev) · [LinkedIn](https://www.linkedin.com/in/troylazaro) · [Instagram](https://www.instagram.com/isametroy_/) · [Email](mailto:troylazaro09@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Troy-LL&amp;show_icons=true&amp;bg_color=F2EEE8&amp;title_color=1A1A1A&amp;text_color=2C2C2C&amp;icon_color=1A1A1A&amp;hide_border=true&amp;border_radius=0" alt="Troy-LL GitHub stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Troy-LL&amp;layout=compact&amp;bg_color=F2EEE8&amp;title_color=1A1A1A&amp;text_color=2C2C2C&amp;hide_border=true&amp;border_radius=0" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Troy-LL&label=Profile%20views&color=1a1a1a&style=flat" alt="Profile views" />
-</p>
-
----
-
-<sub>Troy Lazaro · Manila</sub>
+<img align="right" src="https://komarev.com/ghpvc/?username=Troy-LL&label=Profile%20views&color=2d333b&style=flat-square" alt="Profile views" />
