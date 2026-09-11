@@ -27,8 +27,8 @@ Hackathons, campus and community builds, agentic systems & automation collabs, a
 [troylazaro.dev](https://troylazaro.dev) · [LinkedIn](https://www.linkedin.com/in/troylazaro) · [Instagram](https://www.instagram.com/isametroy_/) · [Email](mailto:troylazaro09@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troy-LL&show_icons=true&bg_color=F2EEE8&title_color=1A1A1A&text_color=2C2C2C&icon_color=1A1A1A&hide_border=true&border_radius=0" alt="Troy-LL GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troy-LL&layout=compact&bg_color=F2EEE8&title_color=1A1A1A&text_color=2C2C2C&hide_border=true&border_radius=0" alt="Top languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Troy-LL&amp;show_icons=true&amp;bg_color=F2EEE8&amp;title_color=1A1A1A&amp;text_color=2C2C2C&amp;icon_color=1A1A1A&amp;hide_border=true&amp;border_radius=0" alt="Troy-LL GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Troy-LL&amp;layout=compact&amp;bg_color=F2EEE8&amp;title_color=1A1A1A&amp;text_color=2C2C2C&amp;hide_border=true&amp;border_radius=0" alt="Top languages" />
 </p>
 
 <p align="center">
